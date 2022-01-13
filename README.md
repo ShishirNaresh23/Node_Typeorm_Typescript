@@ -1,6 +1,6 @@
 # Create a Rest API with Express, PostgreSQL, TypeOrm, and TypeScript
 
-This repo is about to explain how to create a simple Rest API using Express framework, PostgreSQL, and coding with TypeScript.
+This repo is about, how to create a simple Rest API using Express framework, PostgreSQL, and coding with TypeScript.
 
 ## Prerequisites
 
